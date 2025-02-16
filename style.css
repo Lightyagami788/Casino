@@ -71,7 +71,6 @@ nav ul li a:hover{
 /**********HEADER*******/
 #header{
     width: 100%;
-    height: fit-content;
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(images/bg1.jpg);
@@ -79,7 +78,6 @@ nav ul li a:hover{
 }
 
 .header-heading{
-    width: fit-content;
     position: absolute;
     left: 15%;
     top: 50%;
@@ -137,7 +135,7 @@ nav ul li a:hover{
     width: 50%;
 }
 .about-img img{
-    width: 500px;
+
 
 }
 .about-text{
