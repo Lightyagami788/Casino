@@ -71,13 +71,16 @@ nav ul li a:hover{
 /**********HEADER*******/
 #header{
     width: 100%;
+    height: auto;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 100%;
     background-image: url(images/bg1.jpg);
     position: relative;
 }
 
 .header-heading{
+    width: 100%;
+    height: auto;
     position: absolute;
     left: 15%;
     top: 50%;
