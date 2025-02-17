@@ -71,9 +71,9 @@ nav ul li a:hover{
 /**********HEADER*******/
 #header{
     width: 100%;
-    height: auto;
+    height: 768px;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: auto;
     background-image: url(images/bg1.jpg);
     position: relative;
 }
